@@ -1,0 +1,55 @@
+C:\Users\Martin\Desktop\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\bin\Debug\net8.0\CustomizedConsoleColor.deps.json
+C:\Users\Martin\Desktop\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\bin\Debug\net8.0\CustomizedConsoleColor.dll
+C:\Users\Martin\Desktop\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\bin\Debug\net8.0\CustomizedConsoleColor.pdb
+C:\Users\Martin\Desktop\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.AssemblyInfo.cs
+C:\Users\Martin\Desktop\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.dll
+C:\Users\Martin\Desktop\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\refint\CustomizedConsoleColor.dll
+C:\Users\Martin\Desktop\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.pdb
+C:\Users\Martin\Desktop\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\ref\CustomizedConsoleColor.dll
+X:\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\bin\Debug\net8.0\CustomizedConsoleColor.deps.json
+X:\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\bin\Debug\net8.0\CustomizedConsoleColor.dll
+X:\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\bin\Debug\net8.0\CustomizedConsoleColor.pdb
+X:\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.GeneratedMSBuildEditorConfig.editorconfig
+X:\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.AssemblyInfoInputs.cache
+X:\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.AssemblyInfo.cs
+X:\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.csproj.CoreCompileInputs.cache
+X:\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.dll
+X:\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\refint\CustomizedConsoleColor.dll
+X:\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.pdb
+X:\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\ref\CustomizedConsoleColor.dll
+\\kacenka\StudentiPrenosne\ZirnigMartin\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\bin\Debug\net8.0\CustomizedConsoleColor.deps.json
+\\kacenka\StudentiPrenosne\ZirnigMartin\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\bin\Debug\net8.0\CustomizedConsoleColor.dll
+\\kacenka\StudentiPrenosne\ZirnigMartin\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\bin\Debug\net8.0\CustomizedConsoleColor.pdb
+\\kacenka\StudentiPrenosne\ZirnigMartin\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.GeneratedMSBuildEditorConfig.editorconfig
+\\kacenka\StudentiPrenosne\ZirnigMartin\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.AssemblyInfoInputs.cache
+\\kacenka\StudentiPrenosne\ZirnigMartin\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.AssemblyInfo.cs
+\\kacenka\StudentiPrenosne\ZirnigMartin\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.csproj.CoreCompileInputs.cache
+\\kacenka\StudentiPrenosne\ZirnigMartin\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.dll
+\\kacenka\StudentiPrenosne\ZirnigMartin\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\refint\CustomizedConsoleColor.dll
+\\kacenka\StudentiPrenosne\ZirnigMartin\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.pdb
+\\kacenka\StudentiPrenosne\ZirnigMartin\3 Ročník\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\ref\CustomizedConsoleColor.dll
+C:\Users\Martin\Documents\GitHub\ColorfullConsole\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\bin\Debug\net8.0\CustomizedConsoleColor.deps.json
+C:\Users\Martin\Documents\GitHub\ColorfullConsole\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\bin\Debug\net8.0\CustomizedConsoleColor.dll
+C:\Users\Martin\Documents\GitHub\ColorfullConsole\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\bin\Debug\net8.0\CustomizedConsoleColor.pdb
+C:\Users\Martin\Documents\GitHub\ColorfullConsole\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Documents\GitHub\ColorfullConsole\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\GitHub\ColorfullConsole\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.AssemblyInfo.cs
+C:\Users\Martin\Documents\GitHub\ColorfullConsole\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ColorfullConsole\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.dll
+C:\Users\Martin\Documents\GitHub\ColorfullConsole\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\refint\CustomizedConsoleColor.dll
+C:\Users\Martin\Documents\GitHub\ColorfullConsole\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.pdb
+C:\Users\Martin\Documents\GitHub\ColorfullConsole\CustomizedConsoleColor\CustomizedConsoleColorTest\CustomizedConsoleColor\obj\Debug\net8.0\ref\CustomizedConsoleColor.dll
+C:\Users\Martin\Documents\GitHub\ColorsInConsole\CustomizedConsoleColor\bin\Debug\net8.0\CustomizedConsoleColor.deps.json
+C:\Users\Martin\Documents\GitHub\ColorsInConsole\CustomizedConsoleColor\bin\Debug\net8.0\CustomizedConsoleColor.dll
+C:\Users\Martin\Documents\GitHub\ColorsInConsole\CustomizedConsoleColor\bin\Debug\net8.0\CustomizedConsoleColor.pdb
+C:\Users\Martin\Documents\GitHub\ColorsInConsole\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Documents\GitHub\ColorsInConsole\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\GitHub\ColorsInConsole\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.AssemblyInfo.cs
+C:\Users\Martin\Documents\GitHub\ColorsInConsole\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ColorsInConsole\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.dll
+C:\Users\Martin\Documents\GitHub\ColorsInConsole\CustomizedConsoleColor\obj\Debug\net8.0\refint\CustomizedConsoleColor.dll
+C:\Users\Martin\Documents\GitHub\ColorsInConsole\CustomizedConsoleColor\obj\Debug\net8.0\CustomizedConsoleColor.pdb
+C:\Users\Martin\Documents\GitHub\ColorsInConsole\CustomizedConsoleColor\obj\Debug\net8.0\ref\CustomizedConsoleColor.dll

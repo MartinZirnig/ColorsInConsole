@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|c:\\users\\martin\\documents\\github\\colorsinconsole\\customizedconsolecolor\\gradientgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|solutionrelative:customizedconsolecolor\\gradientgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E1871F-F51F-44C5-A8BA-16A452B1DF40}|CustomizedConsoleColorUse\\CustomizedConsoleColorUse.csproj|c:\\users\\martin\\documents\\github\\colorsinconsole\\customizedconsolecoloruse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E1871F-F51F-44C5-A8BA-16A452B1DF40}|CustomizedConsoleColorUse\\CustomizedConsoleColorUse.csproj|solutionrelative:customizedconsolecoloruse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|c:\\users\\martin\\documents\\github\\colorsinconsole\\customizedconsolecolor\\gradientgeneratoroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|solutionrelative:customizedconsolecolor\\gradientgeneratoroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|c:\\users\\martin\\documents\\github\\colorsinconsole\\customizedconsolecolor\\rgbcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|solutionrelative:customizedconsolecolor\\rgbcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|c:\\users\\martin\\documents\\github\\colorsinconsole\\customizedconsolecolor\\consoleeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|solutionrelative:customizedconsolecolor\\consoleeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|c:\\users\\martin\\documents\\github\\colorsinconsole\\customizedconsolecolor\\dualcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|solutionrelative:customizedconsolecolor\\dualcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|c:\\users\\martin\\documents\\github\\colorsinconsole\\customizedconsolecolor\\consolecolorsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|solutionrelative:customizedconsolecolor\\consolecolorsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|c:\\users\\martin\\documents\\github\\colorsinconsole\\customizedconsolecolor\\colorfulconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|solutionrelative:customizedconsolecolor\\colorfulconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|c:\\users\\martin\\documents\\github\\colorsinconsole\\customizedconsolecolor\\consolereading\\coord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|solutionrelative:customizedconsolecolor\\consolereading\\coord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|c:\\users\\martin\\documents\\github\\colorsinconsole\\customizedconsolecolor\\consolereading\\readconsoleoutputcharacter_delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|solutionrelative:customizedconsolecolor\\consolereading\\readconsoleoutputcharacter_delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|c:\\users\\martin\\documents\\github\\colorsinconsole\\customizedconsolecolor\\consolereading\\consolereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744A8C85-DC90-483D-9439-0321DC51E461}|CustomizedConsoleColor\\CustomizedConsoleColor.csproj|solutionrelative:customizedconsolecolor\\consolereading\\consolereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RgbColor.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\RgbColor.cs",
+              "RelativeDocumentMoniker": "CustomizedConsoleColor\\RgbColor.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\RgbColor.cs",
+              "RelativeToolTip": "CustomizedConsoleColor\\RgbColor.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAcwHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:01:47.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GradientGeneratorOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\GradientGeneratorOptions.cs",
+              "RelativeDocumentMoniker": "CustomizedConsoleColor\\GradientGeneratorOptions.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\GradientGeneratorOptions.cs",
+              "RelativeToolTip": "CustomizedConsoleColor\\GradientGeneratorOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:01:35.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradientGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\GradientGenerator.cs",
+              "RelativeDocumentMoniker": "CustomizedConsoleColor\\GradientGenerator.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\GradientGenerator.cs*",
+              "RelativeToolTip": "CustomizedConsoleColor\\GradientGenerator.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:01:24.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DualColor.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\DualColor.cs",
+              "RelativeDocumentMoniker": "CustomizedConsoleColor\\DualColor.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\DualColor.cs",
+              "RelativeToolTip": "CustomizedConsoleColor\\DualColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:59:56.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsoleColorSetting.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\ConsoleColorSetting.cs",
+              "RelativeDocumentMoniker": "CustomizedConsoleColor\\ConsoleColorSetting.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\ConsoleColorSetting.cs",
+              "RelativeToolTip": "CustomizedConsoleColor\\ConsoleColorSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:59:32.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleEffect.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\ConsoleEffect.cs",
+              "RelativeDocumentMoniker": "CustomizedConsoleColor\\ConsoleEffect.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\ConsoleEffect.cs",
+              "RelativeToolTip": "CustomizedConsoleColor\\ConsoleEffect.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAgwFQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:47:26.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReadConsoleOutputCharacter_Delegate.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\ConsoleReading\\ReadConsoleOutputCharacter_Delegate.cs",
+              "RelativeDocumentMoniker": "CustomizedConsoleColor\\ConsoleReading\\ReadConsoleOutputCharacter_Delegate.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\ConsoleReading\\ReadConsoleOutputCharacter_Delegate.cs",
+              "RelativeToolTip": "CustomizedConsoleColor\\ConsoleReading\\ReadConsoleOutputCharacter_Delegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:46:57.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "COORD.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\ConsoleReading\\COORD.cs",
+              "RelativeDocumentMoniker": "CustomizedConsoleColor\\ConsoleReading\\COORD.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\ConsoleReading\\COORD.cs",
+              "RelativeToolTip": "CustomizedConsoleColor\\ConsoleReading\\COORD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:46:28.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColorUse\\Program.cs",
+              "RelativeDocumentMoniker": "CustomizedConsoleColorUse\\Program.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColorUse\\Program.cs",
+              "RelativeToolTip": "CustomizedConsoleColorUse\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAvwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:39:07.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsoleReader.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\ConsoleReading\\ConsoleReader.cs",
+              "RelativeDocumentMoniker": "CustomizedConsoleColor\\ConsoleReading\\ConsoleReader.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\ConsoleReading\\ConsoleReader.cs",
+              "RelativeToolTip": "CustomizedConsoleColor\\ConsoleReading\\ConsoleReader.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:45:49.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColorfulConsole.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\ColorfulConsole.cs",
+              "RelativeDocumentMoniker": "CustomizedConsoleColor\\ColorfulConsole.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\GitHub\\ColorsInConsole\\CustomizedConsoleColor\\ColorfulConsole.cs",
+              "RelativeToolTip": "CustomizedConsoleColor\\ColorfulConsole.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwFcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:45:28.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
